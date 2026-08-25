@@ -2,7 +2,7 @@
 
 A personal website Portfolio showcasing my background, skills and projects as a Full-Stack AI Engineer.
 
-[Live Site] : 
+[Live Site] : https://thapelolegote-portfolio.netlify.app/
 
 ## About 
 This site is built on a Bootstrap Cover Template and customized with hero animation, an about me-profile card ,a projects showcase and a contact section.
